@@ -1,0 +1,98 @@
+[
+  {
+    "student_id": "STU-1001",
+    "name": "Aarav Sharma",
+    "age": 19,
+    "email": "aarav.sharma.2006@gmail.com",
+    "problems_solved": 487,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": "STU-1002",
+    "name": "Priya Patel",
+    "age": 17,
+    "email": "priya.patel17@yahoo.com",
+    "problems_solved": 1243,
+    "city": "Ahmedabad"
+  },
+  {
+    "student_id": "STU-1003",
+    "name": "Rahul Verma",
+    "age": 20,
+    "email": "rahulv.cs20@outlook.com",
+    "problems_solved": 956,
+    "city": "Delhi"
+  },
+  {
+    "student_id": "STU-1004",
+    "name": "Ananya Gupta",
+    "age": 18,
+    "email": "ananya.gupta18@proton.me",
+    "problems_solved": 2104,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": "STU-1005",
+    "name": "Vihaan Singh",
+    "age": 16,
+    "email": "vihaan.s16@gmail.com",
+    "problems_solved": 378,
+    "city": "Lucknow"
+  },
+  {
+    "student_id": "STU-1006",
+    "name": "Diya Nair",
+    "age": 19,
+    "email": "diya.nair19@iiit.ac.in",
+    "problems_solved": 1687,
+    "city": "Kochi"
+  },
+  {
+    "student_id": "STU-1007",
+    "name": "Arjun Reddy",
+    "age": 21,
+    "email": "arjun.reddy21@gmail.com",
+    "problems_solved": 892,
+    "city": "Chennai"
+  },
+  {
+    "student_id": "STU-1008",
+    "name": "Saanvi Joshi",
+    "age": 18,
+    "email": "saanvi.joshi08@outlook.com",
+    "problems_solved": 1345,
+    "city": "Pune"
+  },
+  {
+    "student_id": "STU-1009",
+    "name": "Reyansh Kumar",
+    "age": 17,
+    "email": "reyansh.k17@yahoo.com",
+    "problems_solved": 541,
+    "city": "Patna"
+  },
+  {
+    "student_id": "STU-1010",
+    "name": "Ishaan Khan",
+    "age": 20,
+    "email": "ishaan.khan20@gmail.com",
+    "problems_solved": 2319,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": "STU-1011",
+    "name": "Aditi Mehta",
+    "age": 18,
+    "email": "aditi.mehta.bits@gmail.com",
+    "problems_solved": 1762,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": "STU-1012",
+    "name": "Kabir Yadav",
+    "age": 19,
+    "email": "kabir.y19@proton.me",
+    "problems_solved": 703,
+    "city": "Jaipur"
+  }
+]
