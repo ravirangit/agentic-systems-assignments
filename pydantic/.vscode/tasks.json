@@ -1,0 +1,40 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Check Git Status",
+			"type": "shell",
+			"command": "git status"
+		},
+		{
+			"label": "Pull Assignment Branch",
+			"type": "shell",
+			"command": "git pull origin assignment"
+		},
+		{
+			"label": "Check Git Remotes",
+			"type": "shell",
+			"command": "git remote -v"
+		},
+		{
+			"label": "Check All Branches",
+			"type": "shell",
+			"command": "git branch -a"
+		},
+		{
+			"label": "Pull from Remote Assignment",
+			"type": "shell",
+			"command": "git pull main assignment"
+		},
+		{
+			"label": "Rebase Assignment on Remote",
+			"type": "shell",
+			"command": "git rebase main/assignment"
+		},
+		{
+			"label": "Push Assignment Branch",
+			"type": "shell",
+			"command": "git push main assignment"
+		}
+	]
+}
